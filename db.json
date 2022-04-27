@@ -3,52 +3,52 @@
     {
       "id": 1,
       "title": "",
-      "url": "https://cdn.newbenefits.com/mock-json-assets/bird-house.jpg"
+      "url": "https://cdn-nbui.newbenefits.com/my-json-server/bird-house.jpg"
     },
     {
       "id": 2,
       "title": "",
-      "url": "https://cdn.newbenefits.com/mock-json-assets/butteryfly.jpg"
+      "url": "https://cdn-nbui.newbenefits.com/my-json-server/butteryfly.jpg"
     },
     {
       "id": 3,
       "title": "",
-      "url": "https://cdn.newbenefits.com/mock-json-assets/cherry-blossoms.jpg"
+      "url": "https://cdn-nbui.newbenefits.com/my-json-server/cherry-blossoms.jpg"
     },
     {
       "id": 4,
       "title": "",
-      "url": "https://cdn.newbenefits.com/mock-json-assets/coast-boat.jpg"
+      "url": "https://cdn-nbui.newbenefits.com/my-json-server/coast-boat.jpg"
     },
     {
       "id": 5,
       "title": "",
-      "url": "https://cdn.newbenefits.com/mock-json-assets/garden-tools.jpg"
+      "url": "https://cdn-nbui.newbenefits.com/my-json-server/garden-tools.jpg"
     },
     {
       "id": 6,
       "title": "",
-      "url": "https://cdn.newbenefits.com/mock-json-assets/happy-chef.jpg"
+      "url": "https://cdn-nbui.newbenefits.com/my-json-server/happy-chef.jpg"
     },
     {
       "id": 7,
       "title": "",
-      "url": "https://cdn.newbenefits.com/mock-json-assets/kids-shoes.jpg"
+      "url": "https://cdn-nbui.newbenefits.com/my-json-server/kids-shoes.jpg"
     },
     {
       "id": 8,
       "title": "",
-      "url": "https://cdn.newbenefits.com/mock-json-assets/lady-bug.jpg"
+      "url": "https://cdn-nbui.newbenefits.com/my-json-server/lady-bug.jpg"
     },
     {
       "id": 9,
       "title": "",
-      "url": "https://cdn.newbenefits.com/mock-json-assets/lime-slice.jpg"
+      "url": "https://cdn-nbui.newbenefits.com/my-json-server/lime-slice.jpg"
     },
     {
       "id": 10,
       "title": "",
-      "url": "https://cdn.newbenefits.com/mock-json-assets/pine-cone.jpg"
+      "url": "https://cdn-nbui.newbenefits.com/my-json-server/pine-cone.jpg"
     }
   ]
 }
