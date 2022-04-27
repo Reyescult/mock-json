@@ -1,8 +1,54 @@
 {
   "images": [
-    "http://www.wallpaper-mobile.com/free_download/640_480_wallpapers/11201321/B/B_nicelandsc_HIjyQLYx.jpg",
-    "http://naturewallpaperfree.com/sky/nature-wallpaper-640x480-109-111ede29.jpg",
-    "https://img4.goodfon.com/original/640x480/d/63/zakat-more-bereg-priroda.jpg",
-    "https://i.pinimg.com/originals/55/1d/7f/551d7fd19970f4c27431db6a40a7880b.jpg"
+    {
+      "id": 1,
+      "title": "",
+      "url": "https://cdn.newbenefits.com/mock-json-assets/bird-house.jpg"
+    },
+    {
+      "id": 2,
+      "title": "",
+      "url": "https://cdn.newbenefits.com/mock-json-assets/butteryfly.jpg"
+    },
+    {
+      "id": 3,
+      "title": "",
+      "url": "https://cdn.newbenefits.com/mock-json-assets/cherry-blossoms.jpg"
+    },
+    {
+      "id": 4,
+      "title": "",
+      "url": "https://cdn.newbenefits.com/mock-json-assets/coast-boat.jpg"
+    },
+    {
+      "id": 5,
+      "title": "",
+      "url": "https://cdn.newbenefits.com/mock-json-assets/garden-tools.jpg"
+    },
+    {
+      "id": 6,
+      "title": "",
+      "url": "https://cdn.newbenefits.com/mock-json-assets/happy-chef.jpg"
+    },
+    {
+      "id": 7,
+      "title": "",
+      "url": "https://cdn.newbenefits.com/mock-json-assets/kids-shoes.jpg"
+    },
+    {
+      "id": 8,
+      "title": "",
+      "url": "https://cdn.newbenefits.com/mock-json-assets/lady-bug.jpg"
+    },
+    {
+      "id": 9,
+      "title": "",
+      "url": "https://cdn.newbenefits.com/mock-json-assets/lime-slice.jpg"
+    },
+    {
+      "id": 10,
+      "title": "",
+      "url": "https://cdn.newbenefits.com/mock-json-assets/pine-cone.jpg"
+    }
   ]
 }
